@@ -2,6 +2,8 @@
 
 This project simulates **Turing patterns**. It’s implemented in Visual Studio 2022, however the algorithm in made in MATLAB using sparse matrix operations and implicit finite difference methods.
 
+**You'll need both the Turing and Turing Library folder in order to make adjustements.**
+
 ---
 
 ## Overview
